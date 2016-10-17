@@ -1,4 +1,4 @@
-cask 'aerial' do
+cask 'cgerke-aerial' do
   version '1.2beta5'
   sha256 '5b128fb10a1e088ece7feafc3e58f923036dc73b1efed0b8ac74df33b3e0daff'
 
